@@ -1,23 +1,23 @@
 # CodeCraft-Agency/
 This is a Website of Store. I am make Following Section in this Website.
 
-**HOME**
+**Home**
 
-**SHOW**
+**Services**
 
-**CASE** 
+**About Us**
 
-**ABOUT** 
+**Events**
 
-**COURSES** 
+**Plans**
 
-**SHOP** 
+**Team**
 
-**CONTACT**.
+**Contact Us**
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Store-Website/
+**Live Demo** - https://codecraft-beta.github.io/CodeCraft-Agency/
 
 # CodeCraft-Beta
 
