@@ -33,17 +33,20 @@ Thankyou.
 
 # Join Us
 
+
 **GitHub** - https://github.com/CodeCraft-Beta
 
 **YouTube** - https://www.youtube.com/@codecraftchannal
 
 **Whatsapp** - https://whatsapp.com/channel/0029Vamb48s8F2pC1zM2Gv0Z
 
-**Website** - Coming Soon
+**Telegram**  - https://t.me/codecraft7
 
-**Instagram** - Coming Soon
+**Instagram** - https://www.instagram.com/codecraft147/
 
-**Telegram** - Coming Soon
+**TikTok** - https://www.tiktok.com/@codecraft147
+
+**Website** - https://designcraft.odoo.com/
 
 # Introduction
 
